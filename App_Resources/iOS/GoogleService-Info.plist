@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>797760350418-9fo3obsrtoce6n19t105m3vnkt3r6ttv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.797760350418-9fo3obsrtoce6n19t105m3vnkt3r6ttv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>797760350418-e80rpa5fkrujdt3tuj8o88s2upoucr6m.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC_szF9WREFZIHrneUivuWGSEj3uUw1c_4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>797760350418</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.nativescript.bebopnativescript</string>
+	<key>PROJECT_ID</key>
+	<string>bebop-34e7e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bebop-34e7e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:797760350418:ios:b12790e1e3ec4ac1fce50b</string>
+	<key>DATABASE_URL</key>
+	<string>https://bebop-34e7e.firebaseio.com</string>
+</dict>
+</plist>

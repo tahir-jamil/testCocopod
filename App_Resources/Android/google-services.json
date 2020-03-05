@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "797760350418",
+    "firebase_url": "https://bebop-34e7e.firebaseio.com",
+    "project_id": "bebop-34e7e",
+    "storage_bucket": "bebop-34e7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797760350418:android:713d6ac3aa2efb1bfce50b",
+        "android_client_info": {
+          "package_name": "org.nativescript.bebopnativescript"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797760350418-6enhnobibh9iat8v7gno9r1p5c8sskud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.nativescript.bebopnativescript",
+            "certificate_hash": "4e45cbdc2b215a7474bcc40248fbab9f4dc31293"
+          }
+        },
+        {
+          "client_id": "797760350418-083nmbl63nehqugrk6i2qneifi3a8u38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd-pbwqYxqgojnxpwQ74IJsIE0V1_13k0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797760350418-083nmbl63nehqugrk6i2qneifi3a8u38.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "797760350418-9fo3obsrtoce6n19t105m3vnkt3r6ttv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.nativescript.bebopnativescript"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
